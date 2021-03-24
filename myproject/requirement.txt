@@ -30,7 +30,7 @@ python-dateutil==2.7.2
 python-editor==1.0.3
 pytz==2018.5
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 six==1.11.0
 SQLAlchemy==1.2.7
 stevedore==1.29.0
